@@ -1,4 +1,4 @@
-# Nextjs Template
+# Nextjs Boilerplate 
 
 ## setting up the project
 
